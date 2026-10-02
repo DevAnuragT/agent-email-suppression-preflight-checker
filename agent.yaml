@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: email-suppression-preflight-checker
+version: 0.1.0
+description: "Checks suppression controls, unsubscribe path, and declared bounce rate before a send."
+skills:
+  - email-suppression-preflight-checker-skill
+tools:
+  - audit-email-suppression-preflight-checker
+tags:
+  - messaging-operations
+  - evidence-driven
